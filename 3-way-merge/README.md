@@ -31,3 +31,10 @@ You again live in your own branch, this time we will be doing a bit of juggling 
 - `git merge <branchA> <branchB>`
 - `git diff <branchA> <branchB>`
 - `git log --oneline --graph --all`
+
+## What is the output of git log --oneline --graph --all
+* ce254e1 (HEAD -> master) Created README file
+| * 40568d4 (greeting) First commit
+|/  
+* 2f7f0cb Add content to greeting.txt
+* df9f26c Add file greeting.txt
